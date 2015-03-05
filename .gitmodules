@@ -1,3 +1,4 @@
 [submodule "gtest"]
 	path = gtest
 	url = https://github.com/ceph/gtest.git
+        branch = ceph-release-1.7.0
